@@ -1,2 +1,3 @@
 testing only, changes to first line
 this is a new second line
+this is bug fix - 3rd line
